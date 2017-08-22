@@ -202,7 +202,7 @@ x[["id"]]
 x[[y]]
 
 x$id
-x$y # error!
+x$y # error
 
 # subsetting nested elements of a list
 x<-list(a=list(12,43,78,92),b=c('monday','tuesday'))
